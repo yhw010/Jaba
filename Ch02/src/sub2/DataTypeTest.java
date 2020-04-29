@@ -19,7 +19,7 @@ public class DataTypeTest {
 		System.out.println("var1 :"+var1);
 		System.out.println("var2 :"+var2);
 		System.out.println("var3 :"+var3);		
-		System.out.println("var4 :"+var3);
+		System.out.println("var4 :"+var4);
 		
 		
 		// ½Ç¼öÇü
