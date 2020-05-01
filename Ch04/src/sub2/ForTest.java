@@ -83,10 +83,13 @@ public class ForTest {
 			for(int b=1 ; b<=5-a ; b++) {
 			  System.out.print("¡Ù");
 			}
+			
 			for(int c=1 ; c<=a ; c++) {
 				System.out.print("¡Ú");
 			}
+			
 			System.out.print("\n");
+			
 			}
 		}
 

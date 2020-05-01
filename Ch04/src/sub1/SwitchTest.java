@@ -24,7 +24,7 @@ public class SwitchTest {
 			System.out.println("num은 3입니다.");
 			break;
 		default :
-			System.out.println("num은 1,2,3이 아닙니다.");
+			System.out.println("num은 1, 2, 3이 아닙니다.");
 			break;
 			
 		}
@@ -36,7 +36,7 @@ public class SwitchTest {
 		
 		System.out.println("입력한 점수는 "+score+"입니다.");
 		
-		int grade =score / 10;
+		int grade = score / 10;
 		
 		switch(score) {
 		case 10:
@@ -51,6 +51,7 @@ public class SwitchTest {
 			break;
 		case 6:
 			System.out.println("등급은 D입니다.");
+			break;
 	    default:
 	    	System.out.println("등급은 F입니다.");
 	    	break;

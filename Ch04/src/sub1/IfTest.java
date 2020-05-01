@@ -60,7 +60,7 @@ public class IfTest {
 		
 		if (score >= 90 && score <= 100) {
 			System.out.println("등급은 A입니다.");
-		}else if(score >= 80&& score < 90) {
+		}else if(score >= 80 && score <90) {
 		    System.out.println("등급은 B입니다.");
 		}else if(score >= 70 && score <80 ) {
 		    System.out.println("등급은 c입니다.");   
