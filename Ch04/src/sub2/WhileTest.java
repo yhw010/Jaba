@@ -15,12 +15,13 @@ public class WhileTest {
 		
 		while( k <= 10 ) {
 		
-			sum += k; //무한루트 		
+			sum += k; //무한루트
+			k++;
 		}	
 		System.out.println("1부터 10까지 합 :" +sum);
 		
 		// do~ while (와일문의 본체가 와일문의 위에 있다.한번은 실행후 조건에 따라 하지 말지 결정한다)
-		int total = 0;
+		int eSum = 0;
 		int i = 1;
 		
 	
@@ -71,5 +72,6 @@ public class WhileTest {
 	
 	    System.out.println("1부터 10까지 짝수합: "+total);
 	}
+}
 
 
