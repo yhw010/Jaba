@@ -51,6 +51,8 @@ public class DataTypeTest {
 		String str3 = "¾È³ç";
 		
 		System.out.println("str1 : "+str1);
+		
+		
 		System.out.println("str2 : "+str2);
 		System.out.println("str3 : "+str3);
 	
